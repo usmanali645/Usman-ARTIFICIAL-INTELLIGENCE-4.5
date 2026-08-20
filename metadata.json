@@ -1,0 +1,6 @@
+{
+  "name": "Usman AI",
+  "description": "Premium futuristic AI assistant app powered by Gemini with voice input and text-to-speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
